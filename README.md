@@ -44,9 +44,8 @@ Interests:
   - Web Development (Front-End, Back-End Development)
 
 Hobbies: Spoken Languages, Programming, Basket, Soccer, Chess,
-// Learning: Docker, Kubernetes, AWS, React, TailwindCSS
+Learning: Laravel, React, TailwindCSS
 Languages: HTML, CSS, JS, PHP, Python
-// Fav_Subject: Computer Networks, PCB Design
 
 -------------
 "自分が立っている場所が頂点だと決めたら、私は決して動かない。"
