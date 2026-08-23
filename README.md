@@ -147,7 +147,7 @@ Languages: HTML, CSS, JS, PHP, Python
 <h3 align="left">🔥 Statisitics</h3>
 
   
-![snake gif](https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/AvisSHACk/AvisSHACk/blob/output/github-snake-dark.svg)
 
 <div align="center">
     <a href="https://git.io/streak-stats">
