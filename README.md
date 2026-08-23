@@ -159,7 +159,7 @@ Languages: HTML, CSS, JS, PHP, Python
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvisSHACk&theme=github_dark)
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvisSHACk&theme=github_dark)
 
 </div>
 
