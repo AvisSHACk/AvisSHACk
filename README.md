@@ -157,7 +157,7 @@ Languages: HTML, CSS, JS, PHP, Python
 
 ###
 
-[![Debasish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvisSHACk&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/AvisSHACk/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AvisSHACk&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
 
