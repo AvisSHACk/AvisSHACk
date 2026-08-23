@@ -148,8 +148,11 @@ Languages: HTML, CSS, JS, PHP, Python
 
 ###
 
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=AvisSHACk&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+</div>
 <div align="center">
 
 ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvisSHACk&theme=github_dark)
