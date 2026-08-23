@@ -16,6 +16,8 @@ on:
     
 permissions:
   contents: write
+  pages: write
+  id-token: write
     
   
 # The sequence of runs in this workflow:
