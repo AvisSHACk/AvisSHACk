@@ -161,7 +161,7 @@ Languages: HTML, CSS, JS, PHP, Python
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasishray16&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvisSHACk&theme=github_dark)
 
 </div>
 
