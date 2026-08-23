@@ -1,7 +1,3 @@
-
-&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=debasishray16.debasishray16&left_text=Shadow%20Garden%20Members&left_color=black&right_color=red"/>
-[![wakatime](https://wakatime.com/badge/user/018c6347-ea45-4be7-9e4a-3ad63a132bc9.svg)](https://wakatime.com/@018c6347-ea45-4be7-9e4a-3ad63a132bc9)
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=ようこそみな%20さん!&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
