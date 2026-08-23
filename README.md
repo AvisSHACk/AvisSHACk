@@ -149,13 +149,10 @@ Languages: HTML, CSS, JS, PHP, Python
   
 ![snake gif](https://github.com/AvisSHACk/AvisSHACk/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=AvisSHACk)](https://git.io/streak-stats)
-</div>
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AvisSHACk)](https://git.io/streak-stats)
 
 <div align="center">
 
